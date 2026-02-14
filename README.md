@@ -1,2 +1,2 @@
 # Team-Project-Version-Control
-This project uses GitHub version control system.
+This project uses Git and GitHub version control workflow.
