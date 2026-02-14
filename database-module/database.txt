@@ -1,1 +1,2 @@
 "Database Module Code" 
+Added MySQL database connection logic
